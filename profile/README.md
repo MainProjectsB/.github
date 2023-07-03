@@ -30,7 +30,7 @@ Bu projede MERN (MongoDB, Express.js, React, Node.js) yığını kullanılmışt
 
 MainProjectsB, birçok yetenekli ve deneyimli ekip üyesinden oluşur. İşte bazı ekip üyelerimiz:
 
-- [İsim Soyisim](https://github.com/CihatKOCAK) - Proje Lideri, Yazılım Geliştirici
+- [Cihat KOÇAK](https://github.com/CihatKOCAK) - Proje Lideri, Yazılım Geliştirici
 
 ## Görseller
 
@@ -46,8 +46,8 @@ Aşağıda MainProjectsB ERP Sistemi'nin bazı ekran görüntüleri bulunmaktad�
 Herhangi bir sorunuz, öneriniz veya işbirliği talepleriniz için bizimle iletişime geçmekten çekinmeyin. Aşağıdaki iletişim yöntemlerinden birini kullanabilirsiniz:
 
 - E-posta: pcihatkocakk@gmail.com
-- Twitter: [@mainprojectsb](https://twitter.com/davsanavi)
-- LinkedIn: [MainProjectsB](https://linkedin.com/in/cihat-kocakk/)
+- Twitter: [@CihatKOCAK](https://twitter.com/davsanavi)
+- LinkedIn: [CihatKOCAK](https://linkedin.com/in/cihat-kocakk/)
 
 ---
 
