@@ -52,3 +52,7 @@ Herhangi bir sorunuz, öneriniz veya işbirliği talepleriniz için bizimle ilet
 ---
 
 Teşekkür ederiz, MainProjectsB olarak sizlere yardımcı olmaktan mutluluk duyarız! Projemizi geliştirmeye ve yeni özellikler eklemeye devam ediyoruz. Sizi de ekibimize katılmaya davet ediyoruz!
+
+## Toplam Kod Satırı:
+
+ Bu organizasyonda yer alan tüm projeler toplanda x satır koda sahiptir. Giderek büyüyoruz.
