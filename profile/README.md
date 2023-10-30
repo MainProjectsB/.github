@@ -30,7 +30,8 @@ Bu projede MERN (MongoDB, Express.js, React, Node.js) yığını kullanılmışt
 
 MainProjectsB, birçok yetenekli ve deneyimli ekip üyesinden oluşur. İşte bazı ekip üyelerimiz:
 
-- [Cihat KOÇAK](https://github.com/CihatKOCAK) - Proje Lideri, Yazılım Geliştirici
+- [Cihat KOÇAK](https://github.com/CihatKOCAK) - Co-Founder, CTO
+- [Ezgi BALİ](https://github.com/baliezgi) - Co-Founder, Product Manager
 
 ## Görseller
 
