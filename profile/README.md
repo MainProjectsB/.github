@@ -1,6 +1,6 @@
 # MainProjectsB ERP Sistemi
 
-![MainProjectsB Logo](https://example.com/mainprojectsb_logo.png)
+<img src="https://github.com/MainProjectsB/.github/blob/main/photos/banner.png" width="auto">
 
 MainProjectsB, MERN (MongoDB, Express.js, React, Node.js) yığını kullanarak avukatlık, blog ve e-ticaret siteleri için birleşik bir yönetici paneli ve ERP (Enterprise Resource Planning) sistemi oluşturan bir yazılım geliştirme ekibidir.
 
